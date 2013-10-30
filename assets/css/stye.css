@@ -1,0 +1,103 @@
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,address,big,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,section,aside,nav,footer,header,hgroup,article,audio,video,canvas,command,datalist,details,embed,figcaption,figure,keygen,mark,meter,output,progress,rp,rt,ruby,summary,time{ background:none repeat scroll 0 0 transparent; border:0 none; font-size:100%; margin:0; outline:0 none; padding:0; vertical-align:baseline}.container{max-width:960px;margin:0 auto;padding:0}.container:after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}.clear{ clear:both; display:block; overflow:hidden}.grid{ width:100%; margin:0; overflow:hidden}.dh1{ width:6.25%}.dh2{ width:14.583333333333334%}.dh3{ width:22.916666666666664%}.dh4{ width:31.25%}.dh5{ width:39.58333333333333%}.dh6{ width:47.91666666666667%}.dh7{ width:56.25%}.dh8{ width:64.58333333333334%}.dh9{ width:72.91666666666666%}.dh10{ width:81.25%}.dh11{ width:89.58333333333334%}.dh12{ width:97.91666666666666%}.dh1,.dh2,.dh3,.dh4,.dh5,.dh6,.dh7,.dh8,.dh9,.dh10,.dh11,.dh12{ display:inline; float:left; margin:0 1.0416666666666665%}@media screen and (max-width:720px){   .dh1,.dh2,.dh3,   .dh4,.dh5,.dh6,   .dh7,.dh8,.dh9,   .dh10,.dh11,.dh12{      width:97.91666666666666%;      margin-bottom:1em}} @font-face{font-family:'Crimson Text';src:url('fonts/crimson/crimsontext-bolditalic-webfont.eot');src:url('fonts/crimson/crimsontext-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),url('fonts/crimson/crimsontext-bolditalic-webfont.woff') format('woff'),url('fonts/crimson/crimsontext-bolditalic-webfont.ttf') format('truetype'),url('fonts/crimson/crimsontext-bolditalic-webfont.svg#crimson_textbold_italic') format('svg');font-weight:normal;font-style:normal}.amp{font-family:Crimson Text;vertical-align:middle;font-size:1.8em}@font-face{font-family:'UbuntuR';src:url('fonts/ubuntu/Ubuntu-R-webfont.eot');src:url('fonts/ubuntu/Ubuntu-R-webfont.eot?#iefix') format('embedded-opentype'),url('fonts/ubuntu/Ubuntu-R-webfont.woff') format('woff'),url('fonts/ubuntu/Ubuntu-R-webfont.ttf') format('truetype'),url('fonts/ubuntu/Ubuntu-R-webfont.svg#UbuntuRegular') format('svg');font-weight:normal!important;font-style:normal}@font-face{font-family:'UbuntuB';src:url('fonts/ubuntu/Ubuntu-B-webfont.eot');src:url('fonts/ubuntu/Ubuntu-B-webfont.eot?#iefix') format('embedded-opentype'),url('fonts/ubuntu/Ubuntu-B-webfont.woff') format('woff'),url('fonts/ubuntu/Ubuntu-B-webfont.ttf') format('truetype'),url('fonts/ubuntu/Ubuntu-B-webfont.svg#UbuntuBold') format('svg');font-weight:normal!important;font-style:normal}@font-face{font-family:'Gothic';src:url('fonts/gothic/League_Gothic-webfont.eot');src:url('fonts/gothic/League_Gothic-webfont.eot?iefix') format('eot'),url('fonts/gothic/League_Gothic-webfont.woff') format('woff'),url('fonts/gothic/League_Gothic-webfont.ttf') format('truetype'),url('fonts/gothic/League_Gothic-webfont.svg#webfontFHzvtkso') format('svg');font-weight:normal!important;font-style:normal}@font-face{font-family:'icomoon';src:url('fonts/icomoon/icomoon.eot');src:url('fonts/icomoon/icomoon.eot?#iefix') format('embedded-opentype'),url('fonts/icomoon/icomoon.woff') format('woff'),url('fonts/icomoon/icomoon.ttf') format('truetype'),url('fonts/icomoon/icomoon.svg#icomoon') format('svg');font-weight:normal;font-style:normal}[data-icon]:before{font-family:'icomoon';content:attr(data-icon);speak:none;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-facebook,.icon-google-plus,.icon-twitter,.icon-github,.icon-github-2,.icon-tux,.icon-skype,.icon-android,.icon-feed,.icon-wordpress,.icon-html5,.icon-css3,.icon-new-tab,.icon-bubbles,.icon-tags,.icon-tag,.icon-pencil,.icon-quotes-left,.icon-eye,.icon-console,.icon-phone,.icon-envelop,.icon-location,.icon-download,.icon-box-add,.icon-plus,.icon-checkmark,.icon-loop,.icon-info,.icon-upload,.icon-calendar,.icon-home,.icon-user,.icon-credit,.icon-bookmarks,.icon-bookmark{font-family:'icomoon';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased}.icon-facebook:before{content:"\e000"}.icon-google-plus:before{content:"\e001"}.icon-twitter:before{content:"\e002"}.icon-github:before{content:"\e003"}.icon-github-2:before{content:"\e004"}.icon-tux:before{content:"\e005"}.icon-skype:before{content:"\e006"}.icon-android:before{content:"\e007"}.icon-feed:before{content:"\e008"}.icon-wordpress:before{content:"\e009"}.icon-html5:before{content:"\e00a"}.icon-css3:before{content:"\e00b"}.icon-new-tab:before{content:"\e00c"}.icon-bubbles:before{content:"\e00d"}.icon-tags:before{content:"\e00e"}.icon-tag:before{content:"\e00f"}.icon-pencil:before{content:"\e010"}.icon-quotes-left:before{content:"\e011"}.icon-eye:before{content:"\e012"}.icon-console:before{content:"\e014"}.icon-phone:before{content:"\e015"}.icon-envelop:before{content:"\e016"}.icon-location:before{content:"\e017"}.icon-download:before{content:"\e018"}.icon-box-add:before{content:"\e019"}.icon-plus:before{content:"\e01a"}.icon-checkmark:before{content:"\e01b"}.icon-loop:before{content:"\e01c"}.icon-info:before{content:"\e01d"}.icon-upload:before{content:"\e020"}.icon-calendar:before{content:"\e021"}.icon-home:before{content:"\e023"}.icon-user:before{content:"\e027"}.icon-credit:before{content:"\e028"}.icon-bookmarks:before{content:"\e029"}.icon-bookmark:before{content:"\e02a"}
+
+body {margin:0;padding:0;font-family:"UbuntuR",sans-serif;background: #fff; color: #444;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+/* Paragraf */
+p {font-size: 80%;color: #444;line-height: 22px;margin-bottom:15px}
+/* Link */
+a, a:visited {text-decoration: none; color: #444;}
+::-moz-selection{background:#555; color:#fff; text-shadow:none}::selection{background:#555; color:#fff; text-shadow:none}
+a:hover,:hover{-webkit-transition:all 0.5s ease-out; -moz-transition:all 0.5s ease-out; -o-transition:all 0.5s ease-out; transition:all 0.5s ease-out}
+/* Headings */
+h1, h2, h3, h4, h5, h6{margin:0;padding:0;font-family:"UbuntuB",sans-serif;}
+h1{font-size:36px;line-height:40px}h2{font-size:20px;line-height:40px}
+h3{font-size:18px;line-height:32px}h4{font-size:13px;line-height:30px}
+h5{font-size:12px;line-height:26px}h6{font-size:11px;line-height:24px}
+
+h5 b {font-weight: bold;}
+/* Lista NIE uporzadkowana UL */
+ul {font-size: 14px; margin: 7px 0; padding-left: 10px;}
+ul li {margin-bottom: 5px;}
+/* divs random */
+.container.clear,body.clear{width:100%;float:left;clear:both;margin: 20px 0;}
+.center {text-align: center;}
+/* Header */
+#header {width:100%;height: 350px;clear: both;margin-bottom:50px;padding:0;background: url(../img/bg/octicons-bg.png) repeat scroll center center #202021;position:relative;z-index:1;} 
+#header .slogan {float:left;padding: 80px 0;}
+#header .slogan a.red {margin: 13px 0; padding: 10px 28px;clear:both;}
+#header p {color: #fff;}
+#header h1, header h2, header h4 {width: 100%;float:left;clear:both;text-align:left;color:#fff;text-shadow: 0 1px 1px rgba(0,0,0,.2);}
+#header h1 {font-size: 4em;line-height: 1.23em;}
+#header h2 {font-size: 2em;}
+#header h4 {margin-bottom: 10px;}
+/* Orange */
+.blue {width:100%;float: left;clear:both;background:#3498db;margin:50px 0;padding:45px 0;color:#fff;position:relative;text-align:center;}
+.blue h2 {width: 100%; margin: 20px 0 50px; text-align: center; text-shadow: none;}
+.blue p {width: 600px; margin: 0 auto 30px; color: #fff; text-align: center;}
+.blue a.dalej {display: block; width: 185px; background: #2980b9; color: #fff; margin: 0 auto 20px; padding: 10px 20px; font-size: 12px; text-transform: uppercase;}
+.blue a.dalej:hover {background: #fff; color: #3498db;}
+/* Gray */
+.gray {width: 100%;float:left;clear:both;background:#ecf0f1;margin: 50px 0;padding: 45px 0;position:relative;}
+/* Focus */
+.picture .item-description{padding:5px 15px;border:none;margin:0px}
+.img-por{position:relative;background:#fff;border: 1px solid #bdc3c7;-webkit-transition:all 0.3s ease;-moz-transition:all 0.3s ease;-o-transition:all 0.3s ease;-ms-transition:all 0.3s ease;transition:all 0.3s ease;}
+.img-por .item-description{margin-bottom:0px;padding:8px;border:none;margin:0px}
+.post-item{margin-bottom:20px}.picture img{width:100%;height:auto}
+.img-por:hover{-webkit-box-shadow:0px 0 5px #bbb;box-shadow:0px 0 5 #bbb}
+.post-item h2 a{color: #444}.post-item h2 a:hover{color: #e74c3c}.img-por .picture a {display: block;}
+.img-por .picture {position: relative;overflow: hidden;}
+.img-por .picture img {opacity: 0.8;-webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;-o-transition:all 0.5s ease;-ms-transition:all 0.5s ease;transition:all 0.5s ease;}
+.img-por:hover .picture img{opacity: 1;-webkit-transform: scale(1.45);-moz-transform: scale(1.45);-o-transform: scale(1.45);transform: scale(1.45);}
+.read{padding-top:10px}.more{font-family:"UbuntuB",sans-serif;font-size:12px;border-left:2px solid #e74c3c;padding:5px 15px;background:#f2f2f2;color:#666;position:absolute;bottom:0px;right:0px;}
+/* a#Top */
+a#top {opacity:.5;display: none;width:30px;height:30px;padding: 5px;position: fixed;bottom: 50px;right: 20px;z-index: 9;color: #fff;background: #e74c3c url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAbCAMAAAC+/9RaAAAABGdBTUEAALGOfPtRkwAAAIRQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////YVm6gAAAACt0Uk5TAAIFCgsQHB0mLzA9PkJGR0hMTVBYYWp7foiVlqGrrLi5ydno6vD4+fz9/i5Xp1sAAACbSURBVCiR5dBXAoIwEEXRgKJ0kI6iCIT69r8/A4ihZAfev8n5mQwhPDVVibDTE6+zCKQ7gIckkBhj8RHCZpIm3INDMUedLegllkp9DdcCvOLCQXljXa4sIGfYlslfSbEvnSFqD9JGI/j1AYDaJ8SgAmDfMogWeLcxOxnYw5DY0+QFGl/d7Jh0puCibs+kd/9BpnuJxKoopZX1mz+H8im4sLBHCAAAAABJRU5ErkJggg==") no-repeat center center;text-indent: -9999px}
+a#top:hover{opacity:1}
+/* BUTTONS */
+.button {float: left; color: #fff; text-transform: uppercase; text-shadow: 0 1px 1px rgba(0,0,0,.2);
+  border-radius: 2px;
+  -webkit-transition: background .12s ease-in-out;
+    -moz-transition: background .12s ease-in-out;
+    -ms-transition: background .12s ease-in-out;
+    -o-transition: background .12s ease-in-out;
+    transition: background .12s ease-in-out;
+}
+
+
+.medium {font-size: 12px; margin: 5px 0; padding: 9px 14px 8px;}
+a.red {background: #e74c3c; color: #fff;
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,.2), 0 1px 0 0 rgba(255,255,255,.2) inset;
+  -moz-box-shadow: 0 1px 1px 0 rgba(0,0,0,.2), 0 1px 0 0 rgba(255,255,255,.2) inset;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.2), 0 1px 0 0 rgba(255,255,255,.2) inset;
+}
+a.red:hover {background: #c0392b}
+
+/* Footer */
+#footer {width: 100%; float: left;padding: 30px 0; background: #333;}
+#footer h3 {color:#ccc;font-size:1em;margin-bottom:5px}
+#footer p {color:#aaa;line-height:1.5em;font-size: 12px;margin-bottom: 7px;}
+#footer a {color:#ddd;}
+#footer a:hover {color: #ff6a00;}
+
+#footer .social a{float:left;margin-right: 5px;padding:10px;color:#fff}
+#footer .social a{opacity:1;}
+#footer .social a:hover{opacity: .3;}
+
+#footer .social a.fb{background:#3B5998}
+#footer .social a.twit{background:#00acee}
+#footer .social a.gplus{background:#dd4b39}
+#footer .social a.gtub{background:#171515}
+
+/* -------------------
+*  RESPOSIVE ELEMENTS
+*  ------------------- */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+header .slogan {padding-top: 40px;}
+.blue p {width: 400px;}
+}
+@media only screen and (max-width: 767px) {
+#header {height: 160px;}
+#header .dh4 {display: none;}
+#header .slogan {padding: 30px 0;}
+.blue p {width: 200px;}
+#header h1 {font-size: 2.5em}
+#header h2 {font-size: 1em}
+}
